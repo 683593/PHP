@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwaanhotmail/PHP.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "squelize"
+  ],
+  "author": "Rizwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwaanhotmail/PHP/issues"
+  },
+  "homepage": "https://github.com/rizwaanhotmail/PHP#readme"
+}
